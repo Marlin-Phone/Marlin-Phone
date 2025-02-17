@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- AUTO-GENERATED CONTENT START -->
+# 关于我
 
-<!--
-**Marlin-Phone/Marlin-Phone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+你好，我是马凌峰。在高中时，一位朋友根据我名字的谐音给我起了一个外号——`Marlin`，我觉得这个外号不错，于是一直沿用至今。
 
-Here are some ideas to get you started:
+## 个人简介
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+现为`陕西科技大学`计算机科学与技术专业大二学生，正在系统性构建计算机知识体系。当前学习计划如下：
+
+### 知识图谱构建
+- [ ] 计算机网络（预计2025.2.15完成）
+- [ ] 计算机组成原理（预计2025.3完成）
+- [ ] 数据库系统（含《MySQL必知必会》实践）
+- [ ] CSAPP精读（配套Lab实战中）
+
+### 能力锻造工坊
+- [ ] 独立开发个人博客系统（React+Node.js）
+- [ ] 开源项目贡献（目标2025年4月前提交首个PR）
+- [x] 技术博客搭建（已累计发布1篇原创文章）
+- [ ] 基础算法刷题（目标2025年4月中旬蓝桥杯省一水平）
+
+### 成长里程碑
+- 🏆 全国大学生数学建模竞赛（陕西赛区一等奖）
+- 💻 蓝桥杯C/C++程序设计大赛（省级三等奖）
+
+*（成长进度23%...）比起同龄的优秀开发者，这只是起点。正在蓄力准备2025年挑战更硬核的赛事。*
+
+---
+
+<sub>📅 2025.02.10 | version 0.1.0 更新说明：</sub>  
+
+<sup>• 采用目标驱动式进度追踪</sup>  
+<sup>• 新增可量化完成标识</sup>  
+<sup>• 优化信息层级结构</sup>
+<!-- AUTO-GENERATED CONTENT END -->
