@@ -45,6 +45,7 @@
 <sup>• 基本补全了算法竞赛C++ STL(map, set, stack) </sup>  
 <sup>• 添加了java首个项目实战的目标 </sup>  
 <sup>• 添加了SQL学习目标</sup>  
+<sup>• 在`成长里程碑`中添加了cccc天梯赛的奖项以及蓝桥杯C/C++程序设计大赛的参赛经历</sup>
 
 ---
 
