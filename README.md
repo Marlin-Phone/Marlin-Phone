@@ -1,51 +1,35 @@
+<!-- 第一行：博客、邮箱、GitHub stars、GitHub followers -->
+<div align=center>
+  <a href="//https:/marlin-phone.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-博客-%23185cef?style=flat" style="margin: 0 5px"/></a>
+  <a href="mailto:marlin-phone@outlook.com" target="_blank"><img src="https://img.shields.io/badge/email-outlook-%231677ff?style=flat" style="margin: 0 5px"/></a>
+  <img src="https://img.shields.io/github/stars/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=%23ffda0a" style="margin: 0 5px"/>
+  <img src="https://img.shields.io/github/followers/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=%23ffda0a" style="margin: 0 5px"/>
+</div>
+
 # 关于我
+你好，我是马凌峰。在高中时，一位朋友根据我名字的谐音给我起了一个外号——`Marlin`，我觉得这个外号不错，于是一直沿用至今。  
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="GitHub 贡献图表贪吃蛇动画" src="dist/github-snake.svg" />
-</picture>
+<!-- 使用容器分隔不同部分 -->
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=Marlin's GitHub Stats" style="margin-right: 20px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&theme=&langs_count=4&custom_title=Languages Used"/>
+</div>
 
-你好，我是马凌峰。在高中时，一位朋友根据我名字的谐音给我起了一个外号——`Marlin`，我觉得这个外号不错，于是一直沿用至今。
+目前主要重心在算法竞赛上（但是很菜），因此主语言为C++。
 
-## 个人简介
-现为`陕西科技大学`计算机科学与技术专业大二学生，正在系统性构建计算机知识体系。当前学习计划如下：
+<div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+    <img alt="GitHub 贡献图表贪吃蛇动画" src="dist/github-snake.svg" />
+  </picture>
+</div>
+<!-- 第二行：WakaTime 徽章 -->
+<div align=center>
+  <a href="https://wakatime.com/@72f7b5ae-3c4b-48e8-a41a-2f941eeb7e9d" target="_blank"><img src="https://wakatime.com/badge/user/72f7b5ae-3c4b-48e8-a41a-2f941eeb7e9d.svg" style="margin: 0 5px"/></a>
+</div>
+<!-- 第三行：github-readme-stats WakaTime 徽章 -->
+<div align=center>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin&range=today&theme=dark" style="margin: 0 5px"/>
+</div>
 
-### 知识图谱构建
-- [x] 计算机网络（于2025.2.14学完）
-- [ ] 计算机组成原理（预计2025.5完成）
-- [x] 数据库系统（于2025.5.29学完）
-- [x] SQL学习 （于2025.5.29学完）
-- [ ] 操作系统
-- [ ] CSAPP精读
-
-### 能力锻造工坊
-- [x] 技术博客搭建（已完成）
-- [ ] 独立开发个人博客系统（React+Node.js）
-- [ ] 开源项目贡献（目标2025年4月前提交首个PR）
-- [ ] java首个项目实战（预计2025年7月前完成）
-
-
-
-### 算法学习
-算法刷题（目标2025年国二水平）（原省一目标已达成）（已在洛谷刷250道题）
-
-### 成长里程碑
-- 🎊 全国大学生易班技术创新大赛（全国三等奖）（~~感谢队友带飞~~）
-- 🏆 全国大学生数学建模竞赛（陕西赛区一等奖）
-- 🥇 2025年蓝桥杯C/C++程序设计大赛（省级一等奖）
-- 💻 2024年蓝桥杯C/C++程序设计大赛（省级三等奖）
-- 🥉 cccc团队程序设计天梯赛（团体省级三等奖）
-- 2025年美国大学生数学建模大赛（S奖）
-
-
-*（成长进度20%...）比起同龄的优秀开发者，这只是起点。正在蓄力准备2025年挑战更硬核的赛事。*
----
-
-<sub>📅 2025.06.07 | version 0.1.6 更新说明：</sub>  
-
-<sup>• 已在洛谷刷234->250道题</sup>  
-<sup>• 添加了美国大学生数学建模S奖</sup>  
-<sup>• 添加了全国大学生易班技术创新大赛奖项</sup>  
-<sup>• 数据库系统和SQL于2025.5.29学完</sup>  
-<sup>• 修改了`算法学习`部分</sup>  
