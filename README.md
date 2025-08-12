@@ -10,23 +10,6 @@
 你好，我是马凌峰。在高中时，一位朋友根据我名字的谐音给我起了一个外号——`Marlin`，我觉得这个外号不错，于是一直沿用至今。  
 
 <!-- 使用容器分隔不同部分 -->
-<<<<<<< HEAD
-<div align="center" style="white-space: nowrap;">
-  <div style="display: inline-block; margin: 0 15px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="badges/stats-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="badges/stats-light.svg" />
-      <img alt="GitHub 统计图表" src="badges/stats-light.svg" />
-    </picture>
-  </div>
-  <div style="display: inline-block; margin: 0 15px;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="badges/languages-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="badges/languages-light.svg" />
-      <img alt="GitHub 语言统计图表" src="badges/languages-light.svg" />
-    </picture>
-  </div>
-=======
 <div>
   <picture style="margin-right: 20px;">
     <source media="(prefers-color-scheme: dark)" srcset="badges/stats-dark.svg" />
@@ -38,7 +21,6 @@
     <source media="(prefers-color-scheme: light)" srcset="badges/languages-light.svg" />
     <img alt="GitHub 语言统计图表" src="badges/languages-light.svg" />
   </picture>
->>>>>>> parent of b252262 (Update README.md)
 </div>
 
 目前主要重心在算法竞赛上（但是很菜），因此主语言为C++。
