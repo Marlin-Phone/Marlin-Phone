@@ -17,10 +17,10 @@ jobs:
       - name: Generate badges
         run: |
           # 生成 GitHub stars 徽章
-          curl -o badges/stars.svg "https://img.shields.io/github/stars/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=%23ffda0a"
+          curl -o badges/stars.svg "https://img.shields.io/github/stars/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89%2C%2089%2C%2089)&color=%23ffda0a"
 
           # 生成 GitHub followers 徽章
-          curl -o badges/followers.svg "https://img.shields.io/github/followers/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=%23ffda0a"
+          curl -o badges/followers.svg "https://img.shields.io/github/followers/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89%2C%2089%2C%2089)&color=%23ffda0a"
 
           # 生成 GitHub Stats 徽章
           curl -o badges/stats.svg "https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
