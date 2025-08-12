@@ -48,5 +48,9 @@
 
 ## 最近博客
 <!-- BLOG-POST-LIST:START -->
-[关于我](https://marlin-phone.github.io/about/)
+- [对数器打表找规律的技巧](https://marlin-phone.github.io/2025/08/07/%E5%AF%B9%E6%95%B0%E5%99%A8%E6%89%93%E8%A1%A8%E6%89%BE%E8%A7%84%E5%BE%8B%E7%9A%84%E6%8A%80%E5%B7%A7/)
+- [最大公约数、同余原理](https://marlin-phone.github.io/2025/08/07/%E6%9C%80%E5%A4%A7%E5%85%AC%E7%BA%A6%E6%95%B0-%E5%90%8C%E4%BD%99%E5%8E%9F%E7%90%86/)
+- [重要排序算法总结](https://marlin-phone.github.io/2025/08/06/%E9%87%8D%E8%A6%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93/)
+- [基数排序](https://marlin-phone.github.io/2025/08/05/%E5%9F%BA%E6%95%B0%E6%8E%92%E5%BA%8F/)
+- [位运算实现加减乘除](https://marlin-phone.github.io/2025/08/05/%E4%BD%8D%E8%BF%90%E7%AE%97%E5%AE%9E%E7%8E%B0%E5%8A%A0%E5%87%8F%E4%B9%98%E9%99%A4/)
 <!-- BLOG-POST-LIST:END -->
