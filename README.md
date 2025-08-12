@@ -11,8 +11,12 @@
 
 <!-- 使用容器分隔不同部分 -->
 <div>
-  <img src="badges/stats.svg" style="margin-right: 20px;"/>
-  <img src="badges/languages.svg"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="badges/stats-dark.svg, badges/languages-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="badges/stats-light.svg, badges/languages-light.svg" />
+    <img src="badges/stats-light.svg" style="margin-right: 20px;" />
+    <img src="badges/languages-light.svg" />
+  </picture>
 </div>
 
 目前主要重心在算法竞赛上（但是很菜），因此主语言为C++。
