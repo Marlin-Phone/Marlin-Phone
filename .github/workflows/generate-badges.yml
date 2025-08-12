@@ -20,10 +20,10 @@ jobs:
           curl -o badges/followers.svg "https://img.shields.io/github/followers/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=%23ffda0a"
 
           # 生成 GitHub Stats 徽章
-          curl -o badges/stats.svg "https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=Marlin's GitHub Stats"
+          curl -o badges/stats.svg "https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
 
           # 生成 Top Languages 徽章
-          curl -o badges/languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&theme=&langs_count=4&custom_title=Languages Used"
+          curl -o badges/languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&theme=&langs_count=4&custom_title=Languages%20Used"
 
       - name: Commit and push changes
         run: |
