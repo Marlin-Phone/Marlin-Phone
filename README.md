@@ -12,10 +12,12 @@
 <!-- 使用容器分隔不同部分 -->
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="badges/stats-dark.svg, badges/languages-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="badges/stats-light.svg, badges/languages-light.svg" />
-    <img src="badges/stats-light.svg" style="margin-right: 20px;" />
-    <img src="badges/languages-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="badges/stats-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="badges/languages-dark.svg" />
+    <img alt="GitHub 统计图表" src="badges/stats-dark.svg" /> <!--用来本地显示，提交后不会显示-->
+    <img alt="GitHub 语言统计图表" src="badges/languages-dark.svg" /> 
+    <source media="(prefers-color-scheme: light)" srcset="badges/stats-light.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="badges/languages-light.svg" />
   </picture>
 </div>
 
@@ -25,7 +27,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="GitHub 贡献图表贪吃蛇动画" src="dist/github-snake.svg" />
+    <img alt="GitHub 贡献图表贪吃蛇动画" src="dist/github-snake-dark.svg" />
   </picture>
 </div>
 <!-- 第二行：WakaTime 徽章 -->
@@ -36,4 +38,5 @@
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin&range=today&theme=dark" style="margin: 0 5px"/>
 </div>
+
 
