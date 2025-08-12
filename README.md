@@ -1,4 +1,11 @@
 # 关于我
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="GitHub 贡献图表贪吃蛇动画" src="dist/github-snake.svg" />
+</picture>
+
 你好，我是马凌峰。在高中时，一位朋友根据我名字的谐音给我起了一个外号——`Marlin`，我觉得这个外号不错，于是一直沿用至今。
 
 ## 个人简介

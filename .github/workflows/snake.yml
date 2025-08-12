@@ -1,0 +1,40 @@
+name: Generate Snake Animation
+
+on:
+  # 在每次推送时运行
+  push:
+    branches:
+      - main
+  # 或者每天自动运行
+  schedule:
+    # 每天 UTC 时间 0 点运行（即北京时间 8 点）
+    - cron: "0 0 * * *"
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      # 生成贪吃蛇动画
+      - name: Generate snake animation
+        uses: Platane/snk@v3.3.0
+        with:
+          # GitHub 用户名，使用仓库所有者
+          github_user_name: ${{ github.repository_owner }}
+          # 输出文件列表
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 提交生成的文件
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update snake animation" || exit 0
+          git push
