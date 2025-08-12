@@ -16,6 +16,10 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      # 检出代码
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
       # 生成贪吃蛇动画
       - name: Generate snake animation
         uses: Platane/snk@v3.3.0
