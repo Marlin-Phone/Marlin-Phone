@@ -1,9 +1,9 @@
 <!-- 第一行：博客、邮箱、GitHub stars、GitHub followers -->
 <div align=center>
   <a href="//https:/marlin-phone.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-博客-%23185cef?style=flat" style="margin: 0 5px"/></a>
-  <a href="mailto:marlin-phone@outlook.com" target="_blank"><img src="https://img.shields.io/badge/email-outlook-%231677ff?style=flat" style="margin: 0 5px"/></a>
-  <img src="https://img.shields.io/github/stars/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=%23ffda0a" style="margin: 0 5px"/>
-  <img src="https://img.shields.io/github/followers/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89, 89, 89)&color=%23ffda0a" style="margin: 0 5px"/>
+  <a href="mailto:marlin_phone@outlook.com" target="_blank"><img src="https://img.shields.io/badge/email-outlook-%231677ff?style=flat" style="margin: 0 5px"/></a>
+  <img src="badges/stars.svg" style="margin: 0 5px"/>
+  <img src="badges/followers.svg" style="margin: 0 5px"/>
 </div>
 
 # 关于我
@@ -11,8 +11,8 @@
 
 <!-- 使用容器分隔不同部分 -->
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=Marlin's GitHub Stats" style="margin-right: 20px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&theme=&langs_count=4&custom_title=Languages Used"/>
+  <img src="badges/stats.svg" style="margin-right: 20px;"/>
+  <img src="badges/languages.svg"/>
 </div>
 
 目前主要重心在算法竞赛上（但是很菜），因此主语言为C++。
