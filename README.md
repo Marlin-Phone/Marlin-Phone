@@ -1,8 +1,11 @@
 # 关于我
 你好，我是马凌峰。在高中时，一位朋友根据我名字的谐音给我起了一个外号——`Marlin`，我觉得这个外号不错，于是一直沿用至今。  
 目前主要重心在算法竞赛上（但是很菜），因此主语言为C++。  
-平时会刷刷题，或者是基于AI Coding写一写小项目。
-欢迎通过邮箱联系我！
+平时会刷刷题，或者是基于AI Coding写一写小项目。  
+有时候会写写博客，分享一些自己的想法。  
+欢迎通过[邮箱](mailto:marlin_phone@outlook.com)联系我！  
+我的博客：[Marlin's Blog](https://marlin-phone.github.io)  
+了解更多的我：[About Me](https://marlin-phone.github.io/about)  
 
 <!-- 第一行：博客、邮箱、GitHub stars、GitHub followers -->
 <div align=center>
