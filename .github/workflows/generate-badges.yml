@@ -26,7 +26,7 @@ jobs:
           curl -o badges/stats.svg "https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
 
           # 生成 Top Languages 徽章
-          curl -o badges/languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&theme=&langs_count=4&custom_title=Languages%20Used"
+          curl -o badges/languages.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&custom_title=Languages%20Used"
 
       - name: Commit and push changes
         run: |
