@@ -3,7 +3,7 @@
 目前主要重心在算法竞赛上（但是很菜），因此主语言为C++。  
 平时会刷刷题，或者是基于AI Coding写一写小项目。  
 有时候会写写博客，分享一些自己的想法。  
-欢迎通过[邮箱](mailto:marlin_phone@outlook.com)联系我！  
+欢迎通过[邮箱](mailto:marlin_phone@outlook.com)或[Telegream](https://t.me/marlin_phone)联系我！  
 我的博客：[Marlin's Blog](https://marlin-phone.github.io)  
 了解更多的我：[About Me](https://marlin-phone.github.io/about)  
 
