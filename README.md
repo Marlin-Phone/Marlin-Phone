@@ -50,10 +50,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
-
 - [并查集-上](https://marlin-phone.github.io/2025/08/18/%E5%B9%B6%E6%9F%A5%E9%9B%86-%E4%B8%8A/)
-- [N 皇后问题-位运算](https://marlin-phone.github.io/2025/08/16/N%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98-%E4%BD%8D%E8%BF%90%E7%AE%97/)
-- [Git 使用与代理](https://marlin-phone.github.io/2025/08/14/git%E4%BD%BF%E7%94%A8%E4%B8%8E%E4%BB%A3%E7%90%86/)
+- [N皇后问题-位运算](https://marlin-phone.github.io/2025/08/16/N%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98-%E4%BD%8D%E8%BF%90%E7%AE%97/)
+- [Git使用与代理](https://marlin-phone.github.io/2025/08/14/git%E4%BD%BF%E7%94%A8%E4%B8%8E%E4%BB%A3%E7%90%86/)
 - [常见经典递归总结](https://marlin-phone.github.io/2025/08/14/%E5%B8%B8%E8%A7%81%E7%BB%8F%E5%85%B8%E9%80%92%E5%BD%92%E6%80%BB%E7%BB%93/)
 - [根据数据量猜解法的技巧](https://marlin-phone.github.io/2025/08/13/%E6%A0%B9%E6%8D%AE%E6%95%B0%E6%8D%AE%E9%87%8F%E7%8C%9C%E8%A7%A3%E6%B3%95/)
 <!-- BLOG-POST-LIST:END -->
