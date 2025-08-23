@@ -50,9 +50,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
+- [拓扑排序拓展](https://marlin-phone.github.io/2025/08/22/%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F%E6%8B%93%E5%B1%95/)
 - [并查集-下](https://marlin-phone.github.io/2025/08/18/%E5%B9%B6%E6%9F%A5%E9%9B%86-%E4%B8%8B/)
 - [并查集-上](https://marlin-phone.github.io/2025/08/18/%E5%B9%B6%E6%9F%A5%E9%9B%86-%E4%B8%8A/)
 - [N皇后问题-位运算](https://marlin-phone.github.io/2025/08/16/N%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98-%E4%BD%8D%E8%BF%90%E7%AE%97/)
 - [Git使用与代理](https://marlin-phone.github.io/2025/08/14/git%E4%BD%BF%E7%94%A8%E4%B8%8E%E4%BB%A3%E7%90%86/)
-- [常见经典递归总结](https://marlin-phone.github.io/2025/08/14/%E5%B8%B8%E8%A7%81%E7%BB%8F%E5%85%B8%E9%80%92%E5%BD%92%E6%80%BB%E7%BB%93/)
 <!-- BLOG-POST-LIST:END -->
