@@ -51,8 +51,8 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [为什么你总是连不上自习室的 Wi-Fi？](https://marlin-phone.github.io/2025/08/24/WIFI/)
+- [最小生成树](https://marlin-phone.github.io/2025/08/22/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/)
 - [拓扑排序拓展](https://marlin-phone.github.io/2025/08/22/%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F%E6%8B%93%E5%B1%95/)
 - [并查集-下](https://marlin-phone.github.io/2025/08/18/%E5%B9%B6%E6%9F%A5%E9%9B%86-%E4%B8%8B/)
 - [并查集-上](https://marlin-phone.github.io/2025/08/18/%E5%B9%B6%E6%9F%A5%E9%9B%86-%E4%B8%8A/)
-- [N皇后问题-位运算](https://marlin-phone.github.io/2025/08/16/N%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98-%E4%BD%8D%E8%BF%90%E7%AE%97/)
 <!-- BLOG-POST-LIST:END -->
