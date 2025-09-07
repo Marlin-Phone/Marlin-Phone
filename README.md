@@ -50,9 +50,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
+- [贪心经典专题 1](https://marlin-phone.github.io/2025/09/06/%E8%B4%AA%E5%BF%831/)
 - [宽度优先遍历及其扩展](https://marlin-phone.github.io/2025/08/27/%E5%AE%BD%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E5%8F%8A%E5%85%B6%E6%89%A9%E5%B1%95/)
 - [为什么你总是连不上自习室的 Wi-Fi？](https://marlin-phone.github.io/2025/08/24/WIFI/)
 - [最小生成树](https://marlin-phone.github.io/2025/08/22/%E6%9C%80%E5%B0%8F%E7%94%9F%E6%88%90%E6%A0%91/)
 - [拓扑排序拓展](https://marlin-phone.github.io/2025/08/22/%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F%E6%8B%93%E5%B1%95/)
-- [并查集-下](https://marlin-phone.github.io/2025/08/18/%E5%B9%B6%E6%9F%A5%E9%9B%86-%E4%B8%8B/)
 <!-- BLOG-POST-LIST:END -->
