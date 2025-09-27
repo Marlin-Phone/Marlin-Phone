@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *" # 每天运行一次
+    - cron: "59 15 * * *" # 每天 UTC 时间 15:59 运行（即北京时间 23:59）
   workflow_dispatch:
 
 jobs:

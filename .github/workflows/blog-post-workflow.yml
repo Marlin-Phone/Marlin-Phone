@@ -1,7 +1,7 @@
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
-    - cron: "0 0 * * *" # 每天运行一次，避免过于频繁的请求
+    - cron: "59 15 * * *" # 每天 UTC 时间 15:59 运行（即北京时间 23:59），避免过于频繁的请求
   workflow_dispatch: # 直接通过 GitHub Actions 工作流程页面手动运行工作流程（无需等待调度）
 permissions:
   contents: write # 将生成的内容写入 README 文件
