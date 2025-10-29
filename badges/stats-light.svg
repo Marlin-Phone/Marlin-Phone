@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Marlin's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 800, Total PRs: 5, Total Issues: 4, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 800, Total PRs: 6, Total Issues: 5, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 189.9788719061927;
+        stroke-dashoffset: 188.65918244418074;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >5</text>
+      >6</text>
     </g>
   </g><g transform="translate(0, 99)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >4</text>
+      >5</text>
     </g>
   </g><g transform="translate(0, 132)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >3</text>
+      >4</text>
     </g>
   </g>
     </svg>
