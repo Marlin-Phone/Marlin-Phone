@@ -50,9 +50,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
+- [HTML 快速入门 3](https://marlin-phone.github.io/2025/11/01/HTML_Quick_Start_3/)
+- [HTML 快速入门 2](https://marlin-phone.github.io/2025/11/01/HTML_Quick_Start_2/)
+- [HTML 快速入门 1](https://marlin-phone.github.io/2025/10/31/HTML_Quick_Start_1/)
 - [欧拉函数](https://marlin-phone.github.io/2025/10/01/%E6%AC%A7%E6%8B%89%E5%87%BD%E6%95%B0/)
 - [质数判断、质因子分解、质数筛](https://marlin-phone.github.io/2025/09/30/%E8%B4%A8%E6%95%B0%E7%AF%87/)
-- [贪心经典专题 1](https://marlin-phone.github.io/2025/09/06/%E8%B4%AA%E5%BF%831/)
-- [宽度优先遍历及其扩展](https://marlin-phone.github.io/2025/08/27/%E5%AE%BD%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E5%8F%8A%E5%85%B6%E6%89%A9%E5%B1%95/)
-- [为什么你总是连不上自习室的 Wi-Fi？](https://marlin-phone.github.io/2025/08/24/WIFI/)
 <!-- BLOG-POST-LIST:END -->
