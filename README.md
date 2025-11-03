@@ -50,9 +50,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript 快速入门 2](https://marlin-phone.github.io/2025/11/02/JS_Quick_Start_2/)
 - [JavaScript 快速入门 1](https://marlin-phone.github.io/2025/11/02/JS_Quick_Start_1/)
 - [CSS 快速入门 3](https://marlin-phone.github.io/2025/11/02/CSS_Quick_Start_3/)
 - [CSS 快速入门 2](https://marlin-phone.github.io/2025/11/02/CSS_Quick_Start_2/)
 - [CSS 快速入门 1](https://marlin-phone.github.io/2025/11/02/CSS_Quick_Start_1/)
-- [HTML 快速入门 3](https://marlin-phone.github.io/2025/11/01/HTML_Quick_Start_3/)
 <!-- BLOG-POST-LIST:END -->
