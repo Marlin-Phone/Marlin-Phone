@@ -50,9 +50,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
+- [字符编码详解](https://marlin-phone.github.io/2025/11/11/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81/)
 - [路径详解](https://marlin-phone.github.io/2025/11/10/%E8%B7%AF%E5%BE%84%E8%AF%A6%E8%A7%A3/)
 - [HttpServletRequest与HttpServletResponse的区别](https://marlin-phone.github.io/2025/11/04/HttpServletRequest%E4%B8%8EResponse%E7%9A%84%E5%8C%BA%E5%88%AB/)
 - [JSP 快速入门](https://marlin-phone.github.io/2025/11/03/JSP_Quick_Start/)
 - [Servlet 快速入门](https://marlin-phone.github.io/2025/11/03/Servlet_Quick_Start/)
-- [JavaScript 快速入门 2](https://marlin-phone.github.io/2025/11/02/JS_Quick_Start_2/)
 <!-- BLOG-POST-LIST:END -->
