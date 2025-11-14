@@ -44,7 +44,11 @@
 </div>
 <!-- 第三行：github-readme-stats WakaTime 徽章 -->
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin&range=today&theme=dark" style="margin: 0 5px"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin" />
+    <img alt="Wakatime 时间统计" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin&theme" />
+  </picture>
 </div>
 
 ## 最近博客
