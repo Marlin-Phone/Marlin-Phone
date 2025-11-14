@@ -50,9 +50,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
-- [欧拉函数](https://marlin-phone.github.io/2025/10/01/%E6%AC%A7%E6%8B%89%E5%87%BD%E6%95%B0/)
-- [质数判断、质因子分解、质数筛](https://marlin-phone.github.io/2025/09/30/%E8%B4%A8%E6%95%B0%E7%AF%87/)
-- [贪心经典专题 1](https://marlin-phone.github.io/2025/09/06/%E8%B4%AA%E5%BF%831/)
-- [宽度优先遍历及其扩展](https://marlin-phone.github.io/2025/08/27/%E5%AE%BD%E5%BA%A6%E4%BC%98%E5%85%88%E9%81%8D%E5%8E%86%E5%8F%8A%E5%85%B6%E6%89%A9%E5%B1%95/)
-- [为什么你总是连不上自习室的 Wi-Fi？](https://marlin-phone.github.io/2025/08/24/WIFI/)
+- [内网穿透](https://marlin-phone.github.io/2025/11/13/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/)
+- [字符编码详解](https://marlin-phone.github.io/2025/11/11/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81/)
+- [路径详解](https://marlin-phone.github.io/2025/11/10/%E8%B7%AF%E5%BE%84%E8%AF%A6%E8%A7%A3/)
+- [HttpServletRequest与HttpServletResponse的区别](https://marlin-phone.github.io/2025/11/04/HttpServletRequest%E4%B8%8EResponse%E7%9A%84%E5%8C%BA%E5%88%AB/)
+- [JSP 快速入门](https://marlin-phone.github.io/2025/11/03/JSP_Quick_Start/)
 <!-- BLOG-POST-LIST:END -->

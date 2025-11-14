@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Marlin's GitHub Stats, Rank: C+</title>
-        <desc id="descId">Total Stars Earned: 9, Total Commits  (last year) : 783, Total PRs: 5, Total Issues: 4, Contributed to (last year): 3</desc>
+        <title id="titleId">Marlin's GitHub Stats, Rank: B-</title>
+        <desc id="descId">Total Stars Earned: 10, Total Commits  (last year) : 850, Total PRs: 6, Total Issues: 6, Contributed to (last year): 4</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 190.1988615403562;
+        stroke-dashoffset: 184.2391794259622;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C+
+          B-
         </text>
       
         </g>
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >9</text>
+      >10</text>
     </g>
   </g><g transform="translate(0, 33)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >783</text>
+      >850</text>
     </g>
   </g><g transform="translate(0, 66)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >5</text>
+      >6</text>
     </g>
   </g><g transform="translate(0, 99)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -207,7 +207,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >4</text>
+      >6</text>
     </g>
   </g><g transform="translate(0, 132)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >3</text>
+      >4</text>
     </g>
   </g>
     </svg>
