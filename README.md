@@ -10,7 +10,7 @@
 
 <!-- 第一行：博客、邮箱、GitHub stars、GitHub followers -->
 <div align=center>
-  <a href="//https:/marlin-phone.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-博客-%23185cef?style=flat" style="margin: 0 5px"/></a>
+  <a href="https://marlin-phone.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-博客-%23185cef?style=flat" style="margin: 0 5px"/></a>
   <a href="mailto:marlin_phone@outlook.com" target="_blank"><img src="https://img.shields.io/badge/email-outlook-%231677ff?style=flat" style="margin: 0 5px"/></a>
   <img src="https://komarev.com/ghpvc/?username=marlin-phone&base=1000" style="margin: 0 5px"/>
   <img src="badges/stars.svg" style="margin: 0 5px"/>
