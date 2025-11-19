@@ -122,11 +122,11 @@
       <g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">C++</text>
-      <text x="215" y="34" class="lang-name">40.17%</text>
+      <text x="215" y="34" class="lang-name">40.11%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="40.167078852531986%">
+      <svg data-testid="lang-progress" width="40.112240485882566%">
         <rect
             height="8"
             fill="#f34b7d"
@@ -141,11 +141,11 @@
   </g><g transform="translate(0, 40)">
     <g class="stagger" style="animation-delay: 600ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">JavaScript</text>
-      <text x="215" y="34" class="lang-name">33.18%</text>
+      <text x="215" y="34" class="lang-name">33.13%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="33.178733721948625%">
+      <svg data-testid="lang-progress" width="33.1334362391148%">
         <rect
             height="8"
             fill="#f1e05a"
@@ -160,11 +160,11 @@
   </g><g transform="translate(0, 80)">
     <g class="stagger" style="animation-delay: 750ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">Java</text>
-      <text x="215" y="34" class="lang-name">18.05%</text>
+      <text x="215" y="34" class="lang-name">18.16%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="18.04606850062456%">
+      <svg data-testid="lang-progress" width="18.157956640671383%">
         <rect
             height="8"
             fill="#b07219"
@@ -179,11 +179,11 @@
   </g><g transform="translate(0, 120)">
     <g class="stagger" style="animation-delay: 900ms">
       <text data-testid="lang-name" x="2" y="15" class="lang-name">CSS</text>
-      <text x="215" y="34" class="lang-name">8.61%</text>
+      <text x="215" y="34" class="lang-name">8.60%</text>
       
     <svg width="205" x="0" y="25">
       <rect rx="5" ry="5" x="0" y="0" width="205" height="8" fill="#ddd"></rect>
-      <svg data-testid="lang-progress" width="8.60811892489483%">
+      <svg data-testid="lang-progress" width="8.59636663433125%">
         <rect
             height="8"
             fill="#663399"
