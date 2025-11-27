@@ -13,8 +13,8 @@
   <a href="https://marlin-phone.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-博客-%23185cef?style=flat" style="margin: 0 5px"/></a>
   <a href="mailto:marlin_phone@outlook.com" target="_blank"><img src="https://img.shields.io/badge/email-outlook-%231677ff?style=flat" style="margin: 0 5px"/></a>
   <img src="https://komarev.com/ghpvc/?username=marlin-phone&base=1000" style="margin: 0 5px"/>
-  <img src="badges/stars.svg" style="margin: 0 5px"/>
-  <img src="badges/followers.svg" style="margin: 0 5px"/>
+  <img src="https://img.shields.io/github/stars/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89%2C%2089%2C%2089)&color=%23ffda0a" style="margin: 0 5px"/>
+  <img src="https://img.shields.io/github/followers/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89%2C%2089%2C%2089)&color=%23ffda0a" style="margin: 0 5px"/>
 </div>
 
 <!-- 使用容器分隔不同部分 -->
