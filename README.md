@@ -20,14 +20,32 @@
 <!-- 使用容器分隔不同部分 -->
 <div>
   <picture style="margin-right: 20px;">
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marlin-phone&show_icons=true&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=marlin-phone&show_icons=true" />
-    <img alt="GitHub 统计图表" src="https://github-readme-stats.vercel.app/api?username=marlin-phone&show_icons=true" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=default&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
+    />
+    <img
+      alt="GitHub 统计图表"
+      src="https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=default&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
+    />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marlin-phone&layout=compact&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marlin-phone&layout=compact" />
-    <img alt="GitHub 语言统计图表" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlin-phone&layout=compact" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=dark&custom_title=Languages%20Used"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=default&custom_title=Languages%20Used"
+    />
+    <img
+      alt="GitHub 语言统计图表"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=default&custom_title=Languages%20Used"
+    />
   </picture>
 </div>
 
