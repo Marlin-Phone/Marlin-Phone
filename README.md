@@ -13,29 +13,56 @@
   <a href="https://marlin-phone.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-博客-%23185cef?style=flat" style="margin: 0 5px"/></a>
   <a href="mailto:marlin_phone@outlook.com" target="_blank"><img src="https://img.shields.io/badge/email-outlook-%231677ff?style=flat" style="margin: 0 5px"/></a>
   <img src="https://komarev.com/ghpvc/?username=marlin-phone&base=1000" style="margin: 0 5px"/>
-  <img src="badges/stars.svg" style="margin: 0 5px"/>
-  <img src="badges/followers.svg" style="margin: 0 5px"/>
+  <img src="https://img.shields.io/github/stars/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89%2C%2089%2C%2089)&color=%23ffda0a" style="margin: 0 5px"/>
+  <img src="https://img.shields.io/github/followers/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89%2C%2089%2C%2089)&color=%23ffda0a" style="margin: 0 5px"/>
 </div>
 
 <!-- 使用容器分隔不同部分 -->
 <div>
   <picture style="margin-right: 20px;">
-    <source media="(prefers-color-scheme: dark)" srcset="badges/stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="badges/stats-light.svg" />
-    <img alt="GitHub 统计图表" src="badges/stats-light.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=default&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
+    />
+    <img
+      alt="GitHub 统计图表"
+      src="https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=default&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
+    />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="badges/languages-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="badges/languages-light.svg" />
-    <img alt="GitHub 语言统计图表" src="badges/languages-light.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=dark&custom_title=Languages%20Used"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=default&custom_title=Languages%20Used"
+    />
+    <img
+      alt="GitHub 语言统计图表"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=default&custom_title=Languages%20Used"
+    />
   </picture>
 </div>
 
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="GitHub 贡献图表贪吃蛇动画" src="dist/github-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/marlin-phone/Marlin-Phone/main/dist/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/marlin-phone/Marlin-Phone/main/dist/github-snake.svg"
+    />
+    <img
+      alt="GitHub 贡献图表贪吃蛇动画"
+      src="https://raw.githubusercontent.com/marlin-phone/Marlin-Phone/main/dist/github-snake.svg"
+    />
   </picture>
 </div>
 <!-- 第二行：WakaTime 徽章 -->
