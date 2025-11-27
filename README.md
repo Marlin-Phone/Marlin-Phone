@@ -20,22 +20,31 @@
 <!-- 使用容器分隔不同部分 -->
 <div>
   <picture style="margin-right: 20px;">
-    <source media="(prefers-color-scheme: dark)" srcset="badges/stats-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="badges/stats-light.svg" />
-    <img alt="GitHub 统计图表" src="badges/stats-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=marlin-phone&show_icons=true&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=marlin-phone&show_icons=true" />
+    <img alt="GitHub 统计图表" src="https://github-readme-stats.vercel.app/api?username=marlin-phone&show_icons=true" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="badges/languages-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="badges/languages-light.svg" />
-    <img alt="GitHub 语言统计图表" src="badges/languages-light.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marlin-phone&layout=compact&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marlin-phone&layout=compact" />
+    <img alt="GitHub 语言统计图表" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlin-phone&layout=compact" />
   </picture>
 </div>
 
 <div>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-    <img alt="GitHub 贡献图表贪吃蛇动画" src="dist/github-snake-dark.svg" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/marlin-phone/Marlin-Phone/main/dist/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/marlin-phone/Marlin-Phone/main/dist/github-snake.svg"
+    />
+    <img
+      alt="GitHub 贡献图表贪吃蛇动画"
+      src="https://raw.githubusercontent.com/marlin-phone/Marlin-Phone/main/dist/github-snake.svg"
+    />
   </picture>
 </div>
 <!-- 第二行：WakaTime 徽章 -->
