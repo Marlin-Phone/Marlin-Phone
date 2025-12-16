@@ -81,9 +81,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
+- [把多个 github 仓库合并为单个仓库并保持双向同步](https://marlin-phone.github.io/2025/12/16/%E5%A4%9A%E4%BB%93%E5%BA%93%E5%90%88%E5%B9%B6/)
 - [Talis智能学习辅助系统项目总结](https://marlin-phone.github.io/2025/11/28/Talis/)
 - [Spring 注解总结](https://marlin-phone.github.io/2025/11/22/Spring%E6%B3%A8%E8%A7%A3%E6%80%BB%E7%BB%93/)
 - [内网穿透](https://marlin-phone.github.io/2025/11/13/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/)
 - [字符编码详解](https://marlin-phone.github.io/2025/11/11/%E5%AD%97%E7%AC%A6%E7%BC%96%E7%A0%81/)
-- [路径详解](https://marlin-phone.github.io/2025/11/10/%E8%B7%AF%E5%BE%84%E8%AF%A6%E8%A7%A3/)
 <!-- BLOG-POST-LIST:END -->
