@@ -18,16 +18,16 @@
 </div>
 
 <!-- 使用容器分隔不同部分 -->
-<div>
-  <picture style="margin-right: 20px;">
+<div align="center">
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="badges/stats-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="badges/stats-light.svg" />
-    <img alt="GitHub 统计图表" src="badges/stats-light.svg" />
+    <img alt="GitHub 统计图表" src="badges/stats-light.svg" height="195" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="badges/languages-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="badges/languages-light.svg" />
-    <img alt="GitHub 语言统计图表" src="badges/languages-light.svg" />
+    <img alt="GitHub 语言统计图表" src="badges/languages-light.svg" height="195" />
   </picture>
 </div>
 
