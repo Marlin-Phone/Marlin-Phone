@@ -1,0 +1,46 @@
+# @format
+
+name: Generate Badges
+on:
+  push: # 当push时触发
+    branches:
+      - main
+  schedule:
+    - cron: "59 15 * * *" # 每天 UTC 时间 15:59 运行（即北京时间 23:59）
+  workflow_dispatch:
+
+jobs:
+  generate-badges:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate badges
+        run: |
+          # 生成 GitHub stars 徽章
+          curl -o badges/stars.svg "https://img.shields.io/github/stars/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89%2C%2089%2C%2089)&color=%23ffda0a"
+
+          # 生成 GitHub followers 徽章
+          curl -o badges/followers.svg "https://img.shields.io/github/followers/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89%2C%2089%2C%2089)&color=%23ffda0a"
+
+          # 生成 GitHub Stats 徽章 (白天主题)
+          curl -o badges/stats-light.svg "https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=default&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
+
+          # 生成 GitHub Stats 徽章 (黑夜主题)
+          curl -o badges/stats-dark.svg "https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
+
+          # 生成 Top Languages 徽章 (白天主题)
+          curl -o badges/languages-light.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=default&custom_title=Languages%20Used"
+
+          # 生成 Top Languages 徽章 (黑夜主题)
+          curl -o badges/languages-dark.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=dark&custom_title=Languages%20Used"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add badges/
+          git commit -m "Update badges" || echo "No changes to commit"
+          git pull
+          git push
