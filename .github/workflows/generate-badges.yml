@@ -67,4 +67,5 @@ jobs:
           git config --local user.name "GitHub Action"
           git add badges/*.svg
           git commit -m "Update badges" || echo "No changes to commit"
+          git pull --rebase
           git push
