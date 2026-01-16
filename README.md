@@ -20,32 +20,14 @@
 <!-- 使用容器分隔不同部分 -->
 <div>
   <picture style="margin-right: 20px;">
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=default&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
-    />
-    <img
-      alt="GitHub 统计图表"
-      src="https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=default&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="badges/stats-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="badges/stats-light.svg" />
+    <img alt="GitHub 统计图表" src="badges/stats-light.svg" />
   </picture>
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=dark&custom_title=Languages%20Used"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=default&custom_title=Languages%20Used"
-    />
-    <img
-      alt="GitHub 语言统计图表"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=default&custom_title=Languages%20Used"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="badges/languages-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="badges/languages-light.svg" />
+    <img alt="GitHub 语言统计图表" src="badges/languages-light.svg" />
   </picture>
 </div>
 
