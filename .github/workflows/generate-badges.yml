@@ -12,11 +12,16 @@ on:
 jobs:
   generate-badges:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
-      - name: Generate badges
+      - name: Ensure badges folder
+        run: mkdir -p badges
+
+      - name: Generate static badges
         run: |
           # 生成 GitHub stars 徽章
           curl -o badges/stars.svg "https://img.shields.io/github/stars/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89%2C%2089%2C%2089)&color=%23ffda0a"
@@ -24,23 +29,42 @@ jobs:
           # 生成 GitHub followers 徽章
           curl -o badges/followers.svg "https://img.shields.io/github/followers/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89%2C%2089%2C%2089)&color=%23ffda0a"
 
-          # 生成 GitHub Stats 徽章 (白天主题)
-          curl -o badges/stats-light.svg "https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=default&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
+      - name: Generate GitHub Stats (Light)
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=default&rank_icon=github&hide_border=true
+          path: badges/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-          # 生成 GitHub Stats 徽章 (黑夜主题)
-          curl -o badges/stats-dark.svg "https://github-readme-stats.vercel.app/api?username=Marlin-Phone&locale=en&line_height=33&show_icons=true&hide=&theme=dark&rank_icon=default&custom_title=Marlin%27s%20GitHub%20Stats"
+      - name: Generate GitHub Stats (Dark)
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&rank_icon=github&hide_border=true
+          path: badges/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-          # 生成 Top Languages 徽章 (白天主题)
-          curl -o badges/languages-light.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=default&custom_title=Languages%20Used"
+      - name: Generate Top Languages (Light)
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=default&rank_icon=github&hide_border=true
+          path: badges/languages-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-          # 生成 Top Languages 徽章 (黑夜主题)
-          curl -o badges/languages-dark.svg "https://github-readme-stats.vercel.app/api/top-langs/?username=Marlin-Phone&locale=en&line_height=33&langs_count=4&theme=dark&custom_title=Languages%20Used"
+      - name: Generate Top Languages (Dark)
+        uses: stats-organization/github-readme-stats-action@v1.1.0
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark&rank_icon=github&hide_border=true
+          path: badges/languages-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add badges/
+          git add badges/*.svg
           git commit -m "Update badges" || echo "No changes to commit"
-          git pull
           git push
