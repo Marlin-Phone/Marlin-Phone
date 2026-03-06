@@ -52,13 +52,13 @@
   <a href="https://wakatime.com/@72f7b5ae-3c4b-48e8-a41a-2f941eeb7e9d" target="_blank"><img src="https://wakatime.com/badge/user/72f7b5ae-3c4b-48e8-a41a-2f941eeb7e9d.svg" style="margin: 0 5px"/></a>
 </div>
 <!-- 第三行：github-readme-stats WakaTime 徽章 -->
-<div align=center>
+<!-- <div align=center>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin" />
-    <!-- <img alt="Wakatime 时间统计" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin&theme" /> -->
+    <img alt="Wakatime 时间统计" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin&theme" />
   </picture>
-</div>
+</div> -->
 
 ## 最近博客
 
