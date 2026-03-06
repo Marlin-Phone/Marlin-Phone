@@ -6,7 +6,7 @@
 目前正在构建自己的计算机知识体系，希望通过写博客、分享自己的学习心得、分享一些编程经验、记录自己的生活，帮助更多的人。  
 欢迎通过[邮箱](mailto:marlin_phone@outlook.com)或[Telegram](https://t.me/Marlin_Phone)联系我！  
 我的博客：[Marlin's Blog](https://marlin-phone.github.io)  
-了解更多的我：[About Me](https://marlin-phone.github.io/about)
+<!-- 了解更多的我：[About Me](https://marlin-phone.github.io/about) -->
 
 <!-- 第一行：博客、邮箱、GitHub stars、GitHub followers -->
 <div align=center>
