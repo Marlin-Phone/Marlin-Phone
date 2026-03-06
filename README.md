@@ -12,7 +12,7 @@
 <div align=center>
   <a href="https://marlin-phone.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-博客-%23185cef?style=flat" style="margin: 0 5px"/></a>
   <a href="mailto:marlin_phone@outlook.com" target="_blank"><img src="https://img.shields.io/badge/email-outlook-%231677ff?style=flat" style="margin: 0 5px"/></a>
-  <img src="https://komarev.com/ghpvc/?username=marlin-phone&base=1000" style="margin: 0 5px"/>
+  <img src="https://komarev.com/ghpvc/?username=marlin-phone" style="margin: 0 5px"/>
   <img src="https://img.shields.io/github/stars/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89%2C%2089%2C%2089)&color=%23ffda0a" style="margin: 0 5px"/>
   <img src="https://img.shields.io/github/followers/marlin-phone?style=flat&logoColor=%231677ff&labelColor=rgb(89%2C%2089%2C%2089)&color=%23ffda0a" style="margin: 0 5px"/>
 </div>
@@ -56,7 +56,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin&theme=dark" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin" />
-    <img alt="Wakatime 时间统计" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin&theme" />
+    <!-- <img alt="Wakatime 时间统计" src="https://github-readme-stats.vercel.app/api/wakatime?username=Marlin&theme" /> -->
   </picture>
 </div>
 
