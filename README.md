@@ -63,9 +63,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
+- [Linux常用命令&lpar;2&rpar;](https://marlin-phone.github.io/2026/05/27/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4(2)/)
 - [读懂命令行--help](https://marlin-phone.github.io/2026/01/21/%E8%AF%BB%E6%87%82%E5%91%BD%E4%BB%A4%E8%A1%8C-help/)
 - [Docker基础](https://marlin-phone.github.io/2026/01/16/docker%E5%9F%BA%E7%A1%80/)
 - [Linux常用命令](https://marlin-phone.github.io/2026/01/15/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)
 - [Maven 入门指南](https://marlin-phone.github.io/2025/12/19/Maven/)
-- [把多个 github 仓库合并为单个仓库并保持双向同步](https://marlin-phone.github.io/2025/12/16/%E5%A4%9A%E4%BB%93%E5%BA%93%E5%90%88%E5%B9%B6/)
 <!-- BLOG-POST-LIST:END -->
