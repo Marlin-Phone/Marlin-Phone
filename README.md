@@ -63,9 +63,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux常用命令&lpar;2&rpar;](https://marlin-phone.github.io/2026/05/27/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4(2)/)
-- [读懂命令行--help](https://marlin-phone.github.io/2026/01/21/%E8%AF%BB%E6%87%82%E5%91%BD%E4%BB%A4%E8%A1%8C-help/)
-- [Docker基础](https://marlin-phone.github.io/2026/01/16/docker%E5%9F%BA%E7%A1%80/)
-- [Linux常用命令](https://marlin-phone.github.io/2026/01/15/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)
-- [Maven 入门指南](https://marlin-phone.github.io/2025/12/19/Maven/)
+- [一个域名，两个面孔：记一次 Service Worker 缓存引发的灵异事件](https://marlin-phone.me/2026/06/07/service-worker-cache-domain-issue/)
+- [Linux常用命令&lpar;2&rpar;](https://marlin-phone.me/2026/05/27/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4(2)/)
+- [读懂命令行--help](https://marlin-phone.me/2026/01/21/%E8%AF%BB%E6%87%82%E5%91%BD%E4%BB%A4%E8%A1%8C-help/)
+- [Docker基础](https://marlin-phone.me/2026/01/16/docker%E5%9F%BA%E7%A1%80/)
+- [Linux常用命令](https://marlin-phone.me/2026/01/15/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)
 <!-- BLOG-POST-LIST:END -->
