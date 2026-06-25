@@ -63,9 +63,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
+- [Agent 开发知识体系全景](https://marlin-phone.me/2026/06/25/Agent-%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E5%85%A8%E6%99%AF/)
+- [让 AI Agent 自动为 GitHub 提交代码](https://marlin-phone.me/2026/06/25/%E8%AE%A9AI-Agent%E8%87%AA%E5%8A%A8%E4%B8%BAGitHub%E6%8F%90%E4%BA%A4%E4%BB%A3%E7%A0%81/)
+- [Agent Workflow 设计范式详解](https://marlin-phone.me/2026/06/25/Agent-Workflow/)
 - [一个域名，两个面孔：记一次 Service Worker 缓存引发的灵异事件](https://marlin-phone.me/2026/06/07/service-worker-cache-domain-issue/)
 - [Linux常用命令&lpar;2&rpar;](https://marlin-phone.me/2026/05/27/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4(2)/)
-- [读懂命令行--help](https://marlin-phone.me/2026/01/21/%E8%AF%BB%E6%87%82%E5%91%BD%E4%BB%A4%E8%A1%8C-help/)
-- [Docker基础](https://marlin-phone.me/2026/01/16/docker%E5%9F%BA%E7%A1%80/)
-- [Linux常用命令](https://marlin-phone.me/2026/01/15/Linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)
 <!-- BLOG-POST-LIST:END -->
