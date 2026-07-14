@@ -63,9 +63,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare Tunnel 深度解析：反向隧道如何替代反向代理](https://marlin-phone.me/2026/07/14/Cloudflare-Tunnel-%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%8F%8D%E5%90%91%E9%9A%A7%E9%81%93%E5%A6%82%E4%BD%95%E6%9B%BF%E4%BB%A3%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/)
 - [LLM 训练全流程中的注意力演变：从预训练到 Agent 行为](https://marlin-phone.me/2026/07/07/LLM-training-attention/)
 - [一次 MCP 401 引发的血案：QwenPaw Agent 连环故障排查与修复](https://marlin-phone.me/2026/07/03/mcp-401-qwenpaw-agent-crash/)
 - [Agent 开发知识体系全景](https://marlin-phone.me/2026/06/30/Agent-%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB%E5%85%A8%E6%99%AF/)
 - [让 AI Agent 自动为 GitHub 提交代码](https://marlin-phone.me/2026/06/25/%E8%AE%A9AI-Agent%E8%87%AA%E5%8A%A8%E4%B8%BAGitHub%E6%8F%90%E4%BA%A4%E4%BB%A3%E7%A0%81/)
-- [Agent Workflow 设计范式详解](https://marlin-phone.me/2026/06/25/Agent-Workflow/)
 <!-- BLOG-POST-LIST:END -->
