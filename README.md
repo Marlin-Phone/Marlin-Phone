@@ -63,9 +63,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
+- [Cloudflare 拦截了你的 API？记一次 OpenAI Python 客户端请求头引发的 403 排查](https://marlin-phone.me/2026/07/30/cloudflare-bic-block-openai-python-client/)
 - [让容器里的 AI Agent 通过 SSH 访问宿主机：原理与实操](https://marlin-phone.me/2026/07/29/ssh-container-to-host/)
 - [记一次跨云网络故障排查：TLS 握手间歇性超时](https://marlin-phone.me/2026/07/16/TLS-handshake-timeout/)
 - [Cloudflare Tunnel 深度解析：反向隧道如何替代反向代理](https://marlin-phone.me/2026/07/14/Cloudflare-Tunnel-%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E5%8F%8D%E5%90%91%E9%9A%A7%E9%81%93%E5%A6%82%E4%BD%95%E6%9B%BF%E4%BB%A3%E5%8F%8D%E5%90%91%E4%BB%A3%E7%90%86/)
 - [LLM 训练全流程中的注意力演变：从预训练到 Agent 行为](https://marlin-phone.me/2026/07/07/LLM-training-attention/)
-- [一次 MCP 401 引发的血案：QwenPaw Agent 连环故障排查与修复](https://marlin-phone.me/2026/07/03/mcp-401-qwenpaw-agent-crash/)
 <!-- BLOG-POST-LIST:END -->
