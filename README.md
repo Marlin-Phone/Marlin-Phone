@@ -63,9 +63,9 @@
 ## 最近博客
 
 <!-- BLOG-POST-LIST:START -->
+- [New API 全渠道集体 500？查了两小时，真凶竟是 Tailscale](https://marlin-phone.me/2026/08/25/tailscale-magicdns-new-api-500/)
 - [我的家庭组网方案：用 Tailscale 把零散设备连成一个虚拟局域网](https://marlin-phone.me/2026/08/21/tailscale-networking/)
 - [Tailscale 打洞失败？自建 DERP 中继 10 分钟搞定](https://marlin-phone.me/2026/08/21/tailscale-derp-self-host/)
 - [提示词注入攻防实战：当 Agent 攻击 Agent，我们学到了什么？](https://marlin-phone.me/2026/08/10/prompt-injection-defense/)
 - [Cloudflare 拦截了你的 API？记一次 OpenAI Python 客户端请求头引发的 403 排查](https://marlin-phone.me/2026/07/30/cloudflare-bic-block-openai-python-client/)
-- [让容器里的 AI Agent 通过 SSH 访问宿主机：原理与实操](https://marlin-phone.me/2026/07/29/ssh-container-to-host/)
 <!-- BLOG-POST-LIST:END -->
