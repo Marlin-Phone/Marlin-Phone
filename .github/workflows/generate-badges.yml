@@ -35,7 +35,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=default&rank_icon=github&hide_border=true
           path: badges/stats-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate GitHub Stats (Dark)
         uses: stats-organization/github-readme-stats-action@v1.1.0
@@ -43,7 +43,7 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=dark&rank_icon=github&hide_border=true
           path: badges/stats-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate Top Languages (Light)
         uses: stats-organization/github-readme-stats-action@v1.1.0
@@ -51,7 +51,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=default&rank_icon=github&hide_border=true
           path: badges/languages-light.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Generate Top Languages (Dark)
         uses: stats-organization/github-readme-stats-action@v1.1.0
@@ -59,7 +59,7 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=dark&rank_icon=github&hide_border=true
           path: badges/languages-dark.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GH_STATS_TOKEN }}
 
       - name: Commit and push changes
         run: |
